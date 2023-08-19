@@ -1,2 +1,4 @@
 Commit new file
 New line;
+
+!Added new
